@@ -1,0 +1,4 @@
+G1, , Carol, 50
+T1, Satoshi, Alice, 20
+T2, Alice, Bob, 10
+T3, Satoshi, Bob, 10
