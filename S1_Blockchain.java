@@ -15,6 +15,7 @@ public class S1_Blockchain extends ConsoleProgram {
 	public void init() {
 		setup();
 		loadBlockchain();
+		int x = 0;
 	}
 	
 	private void setup() {
