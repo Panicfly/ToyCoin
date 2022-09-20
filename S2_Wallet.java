@@ -25,6 +25,7 @@ public class S2_Wallet extends ConsoleProgram {
 		setup();
 		
 		loadBlockchain();
+		int x = 0;
 	}
 
 	private void setup() {
