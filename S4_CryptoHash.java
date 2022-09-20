@@ -9,7 +9,7 @@ public class S4_CryptoHash extends ToyCoinProgram {
 
 	public void run() {
 		setup();
-		
+		int y = 0;
 		printHashCode();
 	}
 	
